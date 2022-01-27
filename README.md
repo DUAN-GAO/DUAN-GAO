@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DUAN GAO
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently working in a pharmarceutical company in Beijing
+- 🌱 I’m currently working in a pharmarceutical company in Beijing as a senior bioinformatician
 - 💞️ I’m looking to collaborate on bioinformatics
 - 📫 How to reach me 1481407566@qq.com
 
